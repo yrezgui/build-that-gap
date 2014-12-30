@@ -1,0 +1,30 @@
+{
+  "name": "build-that-gap",
+  "version": "0.1.0",
+  "description": "Desktop client for Phonegap Build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://yrezgui@github.com/yrezgui/build-that-gap.git"
+  },
+  "keywords": [
+    "phonegap",
+    "phonegap-build",
+    "cloud",
+    "node-webkit",
+    "react",
+    "mobile"
+  ],
+  "author": "Yacine Rezgui <rezgui.y@gmail.com>",
+  "license": "Apache Licence v2",
+  "bugs": {
+    "url": "https://github.com/yrezgui/build-that-gap/issues"
+  },
+  "homepage": "https://github.com/yrezgui/build-that-gap",
+  "dependencies": {
+    "bootstrap": "^3.3.1"
+  }
+}
